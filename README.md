@@ -21,5 +21,5 @@ print 'hello world'
 - list
 
 - [ ] wave hi to allan
-- [ ] wave hi to yadhu
-- [ ] frown at justin
+- [x] wave hi to yadhu
+- [x] frown at justin
