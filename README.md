@@ -8,3 +8,18 @@ learning to use git
 ``` Python
 print 'hello world'
 ```
+1. this
+2. is
+3. my
+4. number
+5. list
+
+- this
+- is
+- a
+- different
+- list
+
+- [ ] wave hi to allan
+- [ ] wave hi to yadhu
+- [ ] frown at justin
